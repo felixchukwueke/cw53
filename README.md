@@ -1,3 +1,36 @@
+18057684 Ruchi Pandey
+18044900 Taimur Harris Ali Khan
+18054909 Olorode Abiodun John
+19000972 Felix Chukwueke
+18057439 Timothy Arum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
 
 When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
